@@ -1,4 +1,4 @@
-import s from "../Navbar.module.css";
+import s from "../../Navbar.module.css";
 import React from "react";
 
 const FriendsItem = (props) => {
